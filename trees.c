@@ -4,7 +4,7 @@
 
 int c,top=-1;
 
-// op ballard superb donkey podu
+// from git
 
 struct node {
   int item;
