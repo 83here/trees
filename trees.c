@@ -4,7 +4,7 @@
 
 int c,top=-1;
 
-// op ballard 
+// op ballard superb donkey podu
 
 struct node {
   int item;
