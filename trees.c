@@ -4,6 +4,8 @@
 
 int c,top=-1;
 
+// op ballard 
+
 struct node {
   int item;
   struct node* left;
