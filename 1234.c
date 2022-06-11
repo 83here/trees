@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 10
-
+//kundiya moodu
 int c,top=-1;
 
 struct node {
