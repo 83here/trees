@@ -56,4 +56,31 @@ Retrying.
 
 --2022-06-11 21:51:04--  ftp://git@github.com/83here/circular.git
   (try:15) => 'circular.git'
-Connecting to github.com (github.com)|13.234.176.102|:21... 
+Connecting to github.com (github.com)|13.234.176.102|:21... failed: Operation timed out.
+Retrying.
+
+--2022-06-11 21:52:01--  ftp://git@github.com/83here/circular.git
+  (try:16) => 'circular.git'
+Connecting to github.com (github.com)|13.234.176.102|:21... failed: Operation timed out.
+Retrying.
+
+--2022-06-11 21:53:10--  ftp://git@github.com/83here/circular.git
+  (try:17) => 'circular.git'
+Connecting to github.com (github.com)|13.234.176.102|:21... failed: Operation timed out.
+Retrying.
+
+--2022-06-11 21:54:18--  ftp://git@github.com/83here/circular.git
+  (try:18) => 'circular.git'
+Connecting to github.com (github.com)|13.234.176.102|:21... failed: Operation timed out.
+Retrying.
+
+--2022-06-11 21:55:27--  ftp://git@github.com/83here/circular.git
+  (try:19) => 'circular.git'
+Connecting to github.com (github.com)|13.234.176.102|:21... failed: Operation timed out.
+Retrying.
+
+--2022-06-11 21:56:18--  ftp://git@github.com/83here/circular.git
+  (try:20) => 'circular.git'
+Connecting to github.com (github.com)|13.234.176.102|:21... failed: Operation timed out.
+Giving up.
+
